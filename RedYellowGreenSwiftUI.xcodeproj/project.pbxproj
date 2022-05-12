@@ -11,6 +11,7 @@
 		D359000C282D1FE10037AA96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D359000B282D1FE10037AA96 /* ContentView.swift */; };
 		D359000E282D1FE40037AA96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D359000D282D1FE40037AA96 /* Assets.xcassets */; };
 		D3590011282D1FE40037AA96 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3590010282D1FE40037AA96 /* Preview Assets.xcassets */; };
+		D359001A282D31CB0037AA96 /* RedYellowGreenCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3590019282D31CB0037AA96 /* RedYellowGreenCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D359000B282D1FE10037AA96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D359000D282D1FE40037AA96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3590010282D1FE40037AA96 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D3590019282D31CB0037AA96 /* RedYellowGreenCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedYellowGreenCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				D3590009282D1FE10037AA96 /* RedYellowGreenSwiftUIApp.swift */,
+				D3590019282D31CB0037AA96 /* RedYellowGreenCircleView.swift */,
 				D359000B282D1FE10037AA96 /* ContentView.swift */,
 				D359000D282D1FE40037AA96 /* Assets.xcassets */,
 				D359000F282D1FE40037AA96 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D359001A282D31CB0037AA96 /* RedYellowGreenCircleView.swift in Sources */,
 				D359000C282D1FE10037AA96 /* ContentView.swift in Sources */,
 				D359000A282D1FE10037AA96 /* RedYellowGreenSwiftUIApp.swift in Sources */,
 			);
